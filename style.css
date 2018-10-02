@@ -55,4 +55,39 @@ input{
     width: 15%;
     border-radius: 10px;
     box-shadow: 5px 10px 80px black;
+    border-color: darkred;
 }
+#go{
+    background-color: black;
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    height: 70px;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 5px 10px 80px black;
+    border-color: darkred;
+}
+
+#go:hover{
+    box-shadow: 5px 10px 150px white;
+    cursor: pointer;
+}
+
+#brief{
+     font-size: 200%;
+    text-align: center;
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-weight: 200;
+}
+#bullet{
+     font-size: 200%;
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-weight: 200;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
