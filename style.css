@@ -1,0 +1,58 @@
+.winner{
+    color: yellow;
+}
+
+body{
+    background-image: url("photo_47678_20151019.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: luminosity;
+    background-attachment: fixed;
+}
+
+#head{
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-size: 380%;
+    font-weight: 100;
+}
+
+#first{
+    color: aliceblue;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    font-size: 270%;
+    font-weight: 100;
+   
+}
+h3{
+    font-size: 250%;
+    text-align: center;
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-weight: 200;
+}
+input{
+    border-radius: 5px;
+    height: 40px;
+    width: 7%;
+    color: darkred;
+    font-size: 30px;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 5px 10px 100px white;
+    
+}
+
+#p1, #p2, #reset{
+    background-color: black;
+    color: indianred;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    height: 40px;
+    width: 15%;
+    border-radius: 10px;
+    box-shadow: 5px 10px 80px black;
+}
